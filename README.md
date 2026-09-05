@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="left">Hi, I'm Divik 👋<br><br>I build scalable, user-focused web applications that don’t just work — they *feel right*.<br>From crafting smooth frontends to engineering robust backends, I focus on turning ideas into production-ready digital experiences.<br><br>🚀 What I Do<br><br>* Build full-stack apps with clean architecture<br>* Solve real-world problems through practical projects<br>* Optimize UI/UX for performance and usability<br><br>🧠 Currently<br>Exploring AI-powered applications and building impactful projects<br><br>💡 Philosophy<br>Coding is like a canvas — I use logic to structure it and creativity to make it feel alive.<br><br>🌐 Know more about me: https://26-divik.netlify.app/<br><br>📫 Open to collaborations, internships & opportunities</h3>
+<h3 align="left">Hi, I'm Divik 👋<br><br>I build scalable, user-focused web applications that don’t just work — they *feel right*.<br>From crafting smooth frontends to engineering robust backends, I focus on turning ideas into production-ready digital experiences.<br><br>🚀 What I Do<br><br>* Build full-stack apps with clean architecture<br>* Solve real-world problems through practical projects<br>* Optimize UI/UX for performance and usability<br><br>🧠 Currently<br>Exploring AI-powered applications and building impactful projects<br><br>💡 Philosophy<br>Coding is like a canvas — I use logic to structure it and creativity to make it feel alive.<br><br>🌐 Know more about me: www.divikgoel.page/<br><br>📫 Open to collaborations, internships & opportunities</h3>
 
 ###
 
